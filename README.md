@@ -1,7 +1,7 @@
-Welcome to the Weather App project! This project is based on creating a functional Weather App using Vanilla JavaScript (no frameworks). By following this tutorial, you will be able to create a weather application that displays weather information fetched from the OpenWeatherMap API.
+Welcome to the Weather App project! This project is based on creating a functional Weather App using Vanilla JavaScript (no frameworks). By following this, you will be able to create a weather application that displays weather information fetched from the OpenWeatherMap API.
 
 #Prerequisites
-Before starting this tutorial, make sure you have a basic understanding of JavaScript and HTML. Familiarize yourself with concepts like JavaScript objects, functions, if statements, and HTML structure.
+Make sure you have a basic understanding of JavaScript and HTML. Familiarize yourself with concepts like JavaScript objects, functions, if statements, and HTML structure.
 
 #Features
 The Weather App you will build includes the following features:
